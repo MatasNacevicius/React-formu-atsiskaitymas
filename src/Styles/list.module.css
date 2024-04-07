@@ -1,0 +1,15 @@
+.animal-table-container {
+    margin: auto;
+    width: 50%;
+  }
+  
+  .animal-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .animal-cell {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
